@@ -25,3 +25,7 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 5
+  Enter the elements in the array : 1 2 3 4 2
+  NUmber of unique elements are 4*/
