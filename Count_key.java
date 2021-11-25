@@ -28,3 +28,8 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 6
+  Enter the elements in the array : 1 2 3 2 2 4
+  Enter the required key : 2
+  Key found 3 times*/
