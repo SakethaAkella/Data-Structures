@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    int n,key,i,j;
+	    int n,i,j;
 	    int flag=0,count=0;
 	    Scanner input = new Scanner(System.in);
 	    System.out.print("Enter the number of elements in the array : ");
