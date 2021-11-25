@@ -28,3 +28,7 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 6
+  Enter the elements in the array : 1 2 3 4 5 2
+  Duplicates exists*/
