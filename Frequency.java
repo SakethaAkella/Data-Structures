@@ -26,3 +26,9 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 6
+  Enter the elements in the array : 1 2 2 1 3 2
+  1 appears 2 times
+  2 appears 3 times
+  3 appears 1 times*/
