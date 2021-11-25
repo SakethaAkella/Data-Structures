@@ -25,7 +25,7 @@ public class Main
 		System.out.print("Enter key : ");
 		key = input.nextInt();
 		for(i=0;i<n;i++){
-		    if(key<arr[i]){
+		    if(key<=arr[i]){
 		        System.out.println("Just larger key is "+arr[i]);
 		        flag=1;
 		        break;
