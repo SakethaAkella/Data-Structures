@@ -25,8 +25,13 @@ public class Main
 		}
 	}
 }
-//OUTPUT
+//OUTPUT1
 /*Enter the number of elements in the array : 5
   Enter the elements in the array : 3 2 5 7 1
   Enter the requied key : 5
-  The key is at 2 */
+  The key is at 2*/
+//OUTPUT2
+/*Enter the number of elements in the array : 4
+  Enter the elements in the array : 1 4 7 2
+  Enter the requied key : 3
+  Key not found*/
