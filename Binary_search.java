@@ -49,3 +49,7 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 5
+  Enter the elements in the array : 3 2 1 9 8
+  Key found*/
