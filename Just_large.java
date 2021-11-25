@@ -36,3 +36,8 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 5
+  Enter the elements in the array : 1 4 2 6 8
+  Enter key : 5
+  Just larger key is 6*/
