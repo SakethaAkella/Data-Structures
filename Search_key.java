@@ -25,3 +25,8 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 5
+  Enter the elements in the array : 3 2 5 7 1
+  Enter the requied key : 5
+  The key is at 2 */
