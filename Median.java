@@ -34,3 +34,7 @@ public class Main
 		}
 	}
 }
+//OUTPUT
+/*Enter the number of elements in the array : 5
+  Enter the elements in the array : 3 2 1 5 4
+  The median is 3.0*/
