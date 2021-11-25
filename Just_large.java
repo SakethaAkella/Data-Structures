@@ -13,12 +13,12 @@ public class Main
 		    arr[i] = input.nextInt();
 		}
 		//sort the array
-		for(i=0;i<n;i++){
-		    for(j=1;j<n-1;j++){
-		        if(arr[j]>arr[j-1]){
-		            temp = arr[j];
-		            arr[j] = arr[j+1];
-		            arr[j+1] = temp;
+		for(i=0;i<n-1;i++){
+		    for(j=i+1;j<n;j++){
+		        if(arr[j]<arr[i]){
+		            temp = arr[i];
+		            arr[i] = arr[j];
+		            arr[j] = temp;
 		        }
 		    }
 		}
